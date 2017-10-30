@@ -1,0 +1,7 @@
+https://www.8host.com/blog/razvertyvanie-prilozheniya-na-node-js-i-mongodb-s-pomoshhyu-rancher-v-ubuntu-14-04/
+
+https://github.com/launchany/microservices-node-inventory
+
+http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/
+
+https://community.vscale.io/hc/ru/community/posts/211638529-Docker-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%91%D0%BC-%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D0%BC-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
